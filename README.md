@@ -10,3 +10,8 @@ A collection of 221'653 Icelandic words, alphabetically sorted
 # SSL-ICE
 A JSON report on SSL usage on .is urls    
 [Github Link](https://github.com/gbit-is/sslice)
+
+# Malshaettir 
+A collection of Icelandic provers   
+[Collection](https://github.com/gbit-is/IS-datasets/blob/master/malshaettir.txt)    
+[API Service](http://malshaettir.gbit.is/)
